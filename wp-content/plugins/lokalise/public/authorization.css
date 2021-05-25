@@ -1,0 +1,34 @@
+#loginform > * {
+    display: none;
+}
+
+#nav {
+    display: none;
+}
+
+#loginform.lokalise-authorization {
+    padding-bottom: 24px;
+}
+
+#loginform.lokalise-authorization > .lokalise-authorization-form {
+    display: block;
+}
+
+.lokalise-authorization-form .lokalise-logo-wrapper {
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.lokalise-authorization-form ul {
+    margin: 10px 25px;
+}
+
+.lokalise-authorization-form .lokalise-action-wrapper {
+    margin-top: 25px;
+}
+
+.lokalise-authorization-form .lokalise-signed-in-user {
+    border-top: 1px solid #ccc;
+    margin-top: 15px;
+    padding: 10px 5px;
+}
